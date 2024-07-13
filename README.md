@@ -1,7 +1,7 @@
 # Robochat 🤖
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 
 Robochat is an interactive chatbot application built using Streamlit and Google's Gemini models. This project demonstrates the use of generative AI models, `gemini-pro` and `gemini-pro-vision`, to create a chatbot capable of answering questions and providing responses based on user input.
 
